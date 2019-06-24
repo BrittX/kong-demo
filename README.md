@@ -1,5 +1,10 @@
 # Testing out Kong
 
+Helpful sites: 
+docker-compose: https://gist.github.com/pantsel/73d949774bd8e917bfd3d9745d71febf
+docker-compose2: https://github.com/asyrjasalo/kongpose/blob/master/docker-compose.yml
+write-up: https://medium.com/@tselentispanagis/managing-microservices-and-apis-with-kong-and-konga-7d14568bb59d
+
 ### Bring up the containers
 `(venv) docker-compose up`
 
